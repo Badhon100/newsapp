@@ -1,4 +1,4 @@
-# news
+# This is a news android app.
 
 A new Flutter project.
 
